@@ -2,8 +2,7 @@
 
 ## Description
 
-PETFINDER is a web application that helps people find and adopt pets in their local area. Users can search for pets by breed, age, and location, and can also save their favorite pets to view later.
-This application aims to provide a convenient and straight forward way for a user to adopt a pet.
+This is a simple Todo app that helps people organize their work.It fetches apiu from backend
 
 # Getting Started
 
